@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevDiner
-- 👀 I’m interested in exploring the intersection of blockchain, AI, and full-stack development. I also love traveling, trying out new foods, and pushing my limits in fitness, especially through CrossFit.
+- 👀 I’m interested in exploring the intersection of blockchain, AI, and full-stack development. I also love traveling, trying out new foods, and pushing my limits in wahat I can do with emerging tech so as in the realm of fitness, especially through CrossFit.
 - 🌱 I’m currently learning advanced blockchain protocols, AI-driven technologies, and enhancing my full-stack development skills.
 - 💞️ I’m looking to collaborate on innovative tech projects, hackathons, and anything that challenges the norm.
 - 📫 How to reach me: You can reach out to me via demosampleacc@gmail.com.
