@@ -9,6 +9,7 @@ Snapshot of Experiences
 - Automation:  over a yr — web scraping, on‑chain analytics, task automation, CoinGecko and Telegram Bot API integrations
 
 Core Tooling
+
 Solidity · Ethereum · Foundry · Hardhat · OpenZeppelin · Ethers.js · Web3.js · Web3.py · React · Next.js · Framer Motion · Python · dApp · NFT · ERC20 · ERC721 · ERC1155 · Tokenomics · Smart Contract Security · AI Automation · Image Recognition · Workflow Optimization · Web Scraping · DeFi · Blockchain Integration
 
 What I Do
@@ -18,7 +19,6 @@ What I Do
 - Automation & Data Scraping: craft Python web scrapers, Telegram bots, and dashboards that turn blockchain and market data into actionable insights.
 
 👋 Hi, I’m @DevDiner
-
 -  I’m interested in exploring the intersection of blockchain, AI, and full-stack development. I also love traveling, trying out new foods, constantly pushing my limits in what I can achieve and create with emerging tech so as in the realm of fitness, especially through CrossFit.
 -  I’m currently learning advanced blockchain protocols, AI-driven technologies, and enhancing my full-stack development skills.
 -  I’m looking to collaborate on innovative tech projects, hackathons, and anything that challenges the norm.
