@@ -1,6 +1,7 @@
 Smart Contract Developer | AI Backend Developer | Solidity, Python & Typescript
 
 I celebrate our achievements here: https://www.linkedin.com/in/irwinlow/
+
 I share my learnings, thoughts & experiences here: https://x.com/_bytequest
 
 
