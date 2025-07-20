@@ -1,6 +1,8 @@
 Smart Contract Developer | AI Backend Developer | Solidity, Python & Typescript
 
-Linkedin: https://www.linkedin.com/in/irwinlow/
+I celebrate our achievements here: https://www.linkedin.com/in/irwinlow/
+I share my learnings, thoughts & experiences here: https://x.com/_bytequest
+
 
 Snapshot of Experiences
 - Solidity / Foundry / Hardhat: 3 yrs — ERC‑20, 721, 1155, token‑sale & refund mechanisms, security audit
