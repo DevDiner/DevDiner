@@ -13,7 +13,7 @@ Snapshot of Experiences
 
 Core Tooling
 
-Solidity · RAG Archictecture Design · LLM · AI Agent · Ethereum · Foundry · Hardhat · OpenZeppelin · Ethers.js · Web3.js · Web3.py · React · Next.js · Framer Motion · Python · dApp · NFT · ERC20 · ERC721 · ERC1155 · Tokenomics · Smart Contract Security · AI Automation · Image Recognition · Workflow Optimization · Web Scraping · DeFi · Blockchain Integration
+Solidity · RAG Architecture Design · LLM · AI Agent · Ethereum · Foundry · Hardhat · OpenZeppelin · Ethers.js · Web3.js · Web3.py · React · Next.js · Framer Motion · Python · dApp · NFT · ERC20 · ERC721 · ERC1155 · Tokenomics · Smart Contract Security · AI Automation · Image Recognition · Workflow Optimization · Web Scraping · DeFi · Blockchain Integration
 
 What I Do
 - Secure Smart Contracts: design & deploy ERC‑20/721/1155 with advanced tokenomics, refund flows, and OpenZeppelin security patterns (reentrancy protection, access control, mutation testing).
