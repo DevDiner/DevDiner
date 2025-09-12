@@ -6,10 +6,10 @@ I share my learnings, thoughts & experiences here: https://x.com/_bytequest
 
 
 Snapshot of Experiences
-- Solidity / Foundry / Hardhat: 3 yrs — ERC‑20, 721, 1155, token‑sale & refund mechanisms, security audit
-- Python: 4 yrs — Web3.py back‑ends, data dashboards, automation scripts
-- AI Projects: 1 yr — image‑recognition workflows, efficiency optimization, output monitoring
-- Automation:  over a yr — web scraping, on‑chain analytics, task automation, CoinGecko and Telegram Bot API integrations
+- Solidity / Foundry / Hardhat: 3 yrs —? ERC‑20, 721, 1155, token‑sale & refund mechanisms, security audit
+- Python: 4 yrs —> Web3.py back‑ends, data dashboards, automation scripts
+- AI Projects: 1 yr —> image‑recognition workflows, efficiency optimization, output monitoring
+- Automation:  over a yr —> web scraping, on‑chain analytics, task automation, CoinGecko and Telegram Bot API integrations
 
 Core Tooling
 
